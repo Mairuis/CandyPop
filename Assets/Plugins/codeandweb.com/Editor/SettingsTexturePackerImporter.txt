@@ -1,0 +1,8 @@
+version: 2
+tpsheetFileNames:
+- Assets/Arts/Texture/Sprite/Candy/Candy.tpsheet
+textureFileNames:
+- Assets/Arts/Texture/Sprite/Candy/Candy.png
+normalmapFileNames:
+- 
+enableDebugOutput: 0
