@@ -14,12 +14,11 @@
 6. 游戏截图
 
 <div style="display: flex; gap: 10px; flex-wrap: nowrap;">
-  <img src=".images/1747206889483.jpg" height="600">
-  <img src=".images/1f16971b4af18fdedd09933d640ffd9.png" height="600">
-  <img src=".images/ae8844eb8c79c727dbe22606fbe686e.png" height="600">
-  <img src=".images/1747207057797.jpg" height="600">
+   ![1747206889483.jpg](.images/1747206889483.jpg)
+   ![1f16971b4af18fdedd09933d640ffd9.png](.images/1f16971b4af18fdedd09933d640ffd9.png)
+   ![ae8844eb8c79c727dbe22606fbe686e.png](.images/ae8844eb8c79c727dbe22606fbe686e.png)
+   ![1747207057797.jpg](.images/1747207057797.jpg)
 </div>
-
 ──────────────────────────────
 
 【二、核心玩法与机制】
